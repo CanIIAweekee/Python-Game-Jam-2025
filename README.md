@@ -3,7 +3,7 @@
 ![Main Menu of Awaking](https://not-yet.com)  
 *In a world that never stops, what if someone dared to pause..?*
 
-## 👥 Team: Qva Team
+## 👥 Team: QvaX Team
 - **Programmer**: Walkercito  
 - **Artist**: CanIIAweekee  
 
